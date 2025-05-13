@@ -5,6 +5,15 @@ DOMAIN-SUFFIX,hok.intlgame.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,sgameglobal.com
 DOMAIN-SUFFIX,appsflyersdk.com
+DOMAIN-SUFFIX,hok.singaporepaya.com
+DOMAIN-SUFFIX,zga.globalconnetct.com
+DOMAIN-SUFFIX,honorofkings.com
+DOMAIN-SUFFIX,gamelet.games
+DOMAIN-SUFFIX,hok5v5.com
+DOMAIN,gromelink-link-sg.sgameglobal.com.cdn.cloudflare.net
+DOMAIN,gromelink-link-sg.2c450f6kyrw9.eo.dnse3.com
+DOMAIN,atm-broker-tcp-hok.vasdgame.com
+DOMAIN,sg.galileotelemetry.tencent.com
 DOMAIN-KEYWORD,sgameglobal.com
 IP-CIDR, 183.192.65.101/16, no-resolve
 IP-CIDR, 43.132.55.55/16, no-resolve
