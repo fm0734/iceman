@@ -1,23 +1,32 @@
 # NAME: honor of knights
 # AUTHOR: RYODT
+DOMAIN-SUFFIX,aovmoba.com
+DOMAIN-SUFFIX,arenaofvalor.com
 DOMAIN-SUFFIX,hok-dr.intlgame.com
 DOMAIN-SUFFIX,hok.intlgame.com
 DOMAIN-SUFFIX,intlgame.com
+DOMAIN-SUFFIX,levelinfinite.com
 DOMAIN-SUFFIX,sgameglobal.com
-DOMAIN-SUFFIX,appsflyersdk.com
-DOMAIN-SUFFIX,hok.singaporepaya.com
-DOMAIN-SUFFIX,zga.globalconnetct.com
+DOMAIN-SUFFIX,igamecj.com
+DOMAIN-SUFFIX,tencentgames.com
+DOMAIN-SUFFIX,proximabeta.com
+DOMAIN-SUFFIX,aovglobal.com
 DOMAIN-SUFFIX,honorofkings.com
-DOMAIN-SUFFIX,gamelet.games
-DOMAIN-SUFFIX,hok5v5.com
-DOMAIN-SUFFIX,galileotelemetry.tencent.com
-DOMAIN,gromelink-link-sg.sgameglobal.com.cdn.cloudflare.net
-DOMAIN,gromelink-link-sg.2c450f6kyrw9.eo.dnse3.com
-DOMAIN,atm-broker-tcp-hok.vasdgame.com
-DOMAIN,ep2.facebook.com
-DOMAIN,ios.crashsight.wetest.net
-DOMAIN,asia.cschannel.anticheatexpert.com
-DOMAIN,tiem-cdn.qq.com
-DOMAIN-KEYWORD,sgameglobal.com
-IP-CIDR, 183.192.65.101/16, no-resolve
-IP-CIDR, 43.132.55.55/16, no-resolve
+DOMAIN-KEYWORD,sgameglobal
+DOMAIN-KEYWORD,aov
+DOMAIN-KEYWORD,arenaofvalor
+DOMAIN-KEYWORD,hok
+DOMAIN-KEYWORD,intlgame
+DOMAIN-KEYWORD,honorofkings
+IP-CIDR,183.192.65.101/16,no-resolve
+IP-CIDR,43.132.55.55/16,no-resolve
+IP-CIDR,203.205.128.0/17,no-resolve
+IP-CIDR,203.205.192.0/18,no-resolve
+IP-CIDR,119.28.0.0/16,no-resolve
+IP-CIDR,119.29.0.0/16,no-resolve
+IP-CIDR,49.51.0.0/16,no-resolve
+IP-CIDR,162.62.0.0/16,no-resolve
+IP-CIDR,43.156.0.0/16,no-resolve
+IP-CIDR,139.155.0.0/16,no-resolve
+IP-CIDR,101.1.0.0/16,no-resolve
+IP-CIDR,103.27.184.0/22,no-resolve
