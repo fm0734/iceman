@@ -5,6 +5,7 @@ DOMAIN,bybit-exchange.github.io
 DOMAIN,app-measurement.com
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
+DOMAIN,bybit.ada.support
 DOMAIN-SUFFIX,bybit.biz
 DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,jbybit.com
@@ -19,6 +20,7 @@ DOMAIN-SUFFIX,byapps.net
 DOMAIN-SUFFIX,byd3c3.com
 DOMAIN-SUFFIX,bybdc6.com
 DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,bybit-global.com
 IP-CIDR,13.32.121.6/32
 IP-CIDR,43.133.238.145/32
 IP-CIDR,13.33.187.108/32
